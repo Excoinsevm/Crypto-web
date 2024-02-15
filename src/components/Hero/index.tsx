@@ -20,7 +20,7 @@ const Hero : Component = () => {
           <h1 class="text-[32px] lg:text-[64px] font-bold leading-tight mb-6" data-aos="fade-down" data-aos-delay="500">Gold Rock</h1>
           <p class="max-w-[440px] leading-relaxed mb-8" data-aos="fade-down" data-aos-delay="600">A Gold piece built on the Bitrock Blockchain</p>
           <button class="btn gap-x-6 pl-6 text-sm lg:h-16 lg:text-base" data-aos="fade-down" data-aos-delay="700">
-  <a href="your-link-here" target="_blank" rel="noopener noreferrer">
+  <a href="https://rock-swap.io/#/swap?outputCurrency=0x2ae505d947254bd7fde48799cc388215348e1e23" target="_blank" rel="noopener noreferrer">
     Buy GROCK
     <img src={arrowIcon} alt="Arrow Circle Right" />
   </a>
