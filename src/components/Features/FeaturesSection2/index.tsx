@@ -25,7 +25,9 @@ const FeaturesSection2 : Component = () => {
           View all GROCK related Tx's in realtime, at
           any location any time using CoinTools.
           </p>
-          <button class="btn px-8 mb-6 lg:mb-0">Charts</button>
+           <a href="https://www.dextools.io/app/en/bitrock/pair-explorer/0x26404f495ad88b63bb9eca24d4dadb3b8018dba3?t=1708041095895" target="_blank" rel="noopener noreferrer">
+            <button class="btn px-8">Charts</button>
+          </a>
         </div>
       </div>
     </div>
