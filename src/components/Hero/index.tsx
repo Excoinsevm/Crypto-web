@@ -12,15 +12,16 @@ const Hero : Component = () => {
           {/* Badge Text */}
           <div class="bg-white/10 p-1 mb-6 rounded-full pl-1 pr-3 max-w-[355px]" data-aos="fade-down" data-aos-delay="400">
             <div class="flex items-center justify-between text-sm lg:text-base">
-              <div class="bg-white text-darkblue rounded-full font-medium py-1 px-4">75% SAVE</div>
-              <div>For the Black Friday weekend</div>
+              <div class="bg-white text-darkblue rounded-full font-medium py-1 px-4">GROCK</div>
+              <div>on the Bitrock Chain</div>
             </div>
           </div>
           {/* Title */}
-          <h1 class="text-[32px] lg:text-[64px] font-bold leading-tight mb-6" data-aos="fade-down" data-aos-delay="500">Fast & Secure platform to invest in crypto.</h1>
-          <p class="max-w-[440px] leading-relaxed mb-8" data-aos="fade-down" data-aos-delay="600">Buy and sell crpyocurrencies, trusted by 10M wallets with over $30 billion in transactions.</p>
+          <h1 class="text-[32px] lg:text-[64px] font-bold leading-tight mb-6" data-aos="fade-down" data-aos-delay="500">Gold Rock</h1>
+          <p class="max-w-[440px] leading-relaxed mb-8" data-aos="fade-down" data-aos-delay="600">A Gold piece built on the Bitrock Blockchain</p>
           <button class="btn gap-x-6 pl-6 text-sm lg:h-16 lg:text-base" data-aos="fade-down" data-aos-delay="700">
-          Try for free
+            <a href="https://rock-swap.io/#/swap?outputCurrency=0x2ae505d947254bd7fde48799cc388215348e1e23" target="_blank" rel="noopener noreferrer">
+          Buy GROCK
             <img src={arrowIcon} alt="Arrow Circle Right" />
           </button>
         </div>
