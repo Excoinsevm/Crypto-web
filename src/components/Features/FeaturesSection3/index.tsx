@@ -12,11 +12,10 @@ const FeaturesSection3 : Component = () => {
         data-aos-offset="400"
       >
         <h3 class="h3 mb-6">
-        Grow your profit and track your investments
+        Detailed Statistics
         </h3>
         <p class="text-gray mb-8 max-w-[408px]">
-        Use advanced analytical tools. Clear TradingView charts let you
-        track current and historical profit investments.
+        View all GROCK related Tx's in realtime, at any location any time using CoinTools.
         </p>
         <button class="btn px-8">Learn more</button>
       </div>
