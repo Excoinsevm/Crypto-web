@@ -16,7 +16,9 @@ const FeatureSection1 : Component = () => {
         Get full statistic information about the behavior of buyers and
         sellers and stay Up to date on our Telegram Group.
         </p>
-        <button class="btn px-8">Join</button>
+         <a href="https://t.me/" target="_blank" rel="noopener noreferrer">
+            <button class="btn px-8">Join</button>
+          </a>
       </div>
       {/* Image */}
       <div
