@@ -14,9 +14,9 @@ const FeatureSection1 : Component = () => {
         <h3 class="h3 mb-6">Invest Smart</h3>
         <p class="text-gray mb-8">
         Get full statistic information about the behavior of buyers and
-        sellers will help you to make the decision.
+        sellers and stay Up to date on our Telegram Group.
         </p>
-        <button class="btn px-8">Learn more</button>
+        <button class="btn px-8">Join</button>
       </div>
       {/* Image */}
       <div
