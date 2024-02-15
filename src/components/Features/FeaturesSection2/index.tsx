@@ -25,7 +25,7 @@ const FeaturesSection2 : Component = () => {
           View all GROCK related Tx's in realtime, at
           any location any time using CoinTools.
           </p>
-          <button class="btn px-8 mb-6 lg:mb-0">Learn more</button>
+          <button class="btn px-8 mb-6 lg:mb-0">Charts</button>
         </div>
       </div>
     </div>
