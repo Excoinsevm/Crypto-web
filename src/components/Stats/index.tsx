@@ -13,8 +13,8 @@ const Stats : Component = () => {
           </div>
           {/* Item Text */}
           <div>
-            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">$30B</div>
-            <div class="text-gray">Digital Currency Exchanged</div>
+            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">1000</div>
+            <div class="text-gray">Max Supply</div>
           </div>
         </div>
         {/* Item */}
@@ -25,8 +25,8 @@ const Stats : Component = () => {
           </div>
           {/* Item Text */}
           <div>
-            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">$10M+</div>
-            <div class="text-gray">Trusted Wallets Investor</div>
+            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">100%</div>
+            <div class="text-gray">Liquidity Supply</div>
           </div>
         </div>
         {/* Item */}
@@ -37,8 +37,8 @@ const Stats : Component = () => {
           </div>
           {/* Item Text */}
           <div>
-            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">195</div>
-            <div class="text-gray">Countries Supported</div>
+            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">0%</div>
+            <div class="text-gray">Team Supply</div>
           </div>
         </div>
       </div>
