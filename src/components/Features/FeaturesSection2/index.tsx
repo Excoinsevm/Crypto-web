@@ -22,8 +22,8 @@ const FeaturesSection2 : Component = () => {
         >
           <h3 class="h3 mb-6">Detailed Statistics</h3>
           <p class="text-gray mb-8">
-          View all mining related information in realtime, at any point at
-          any location and decide which polls you want to mine in.
+          View all GROCK related Tx's in realtime, at
+          any location any time using CoinTools.
           </p>
           <button class="btn px-8 mb-6 lg:mb-0">Learn more</button>
         </div>
