@@ -11,9 +11,9 @@ const NewsLetter : Component = () => {
       >
         {/* Text */}
         <div class="flex-1 w-full">
-          <h3 class="h3 mb-4">Start mining now</h3>
+          <h3 class="h3 mb-4">NewsLetter</h3>
           <p class="max-w-[348px] mb-8">
-          Join now with CRAPPO to get the latest news and start mining now
+          Join our NewsLetter now to get the latest news updates about GoldRock
           </p>
         </div>
         <NewsLetterForm />
