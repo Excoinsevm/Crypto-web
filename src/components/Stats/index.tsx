@@ -13,8 +13,8 @@ const Stats : Component = () => {
           </div>
           {/* Item Text */}
           <div>
-            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">1000</div>
-            <div class="text-gray">Max Supply</div>
+            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">GROCK</div>
+            <div class="text-gray">Tokenomics</div>
           </div>
         </div>
         {/* Item */}
