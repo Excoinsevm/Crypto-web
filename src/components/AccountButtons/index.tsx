@@ -1,7 +1,8 @@
-import {Component} from 'solid-js';
+import { Component } from 'solid-js';
 
-const AccountButtons : Component = () => {
-  return <div class="flex items-center font-medium">
+const AccountButtons: Component = () => {
+  return (
+    <div class="flex items-center font-medium">
       {/* Separator */}
       <span class="mx-6 text-white/20 font-thin">|</span>
       {/* Buy Now Button with Link */}
@@ -11,6 +12,5 @@ const AccountButtons : Component = () => {
     </div>
   );
 };
-
 
 export default AccountButtons;
