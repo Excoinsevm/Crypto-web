@@ -7,7 +7,7 @@ import {
   IoLogoLinkedin,
 } from 'solid-icons/io';
 
-import LogoUrl from '@assets/images/logo.svg';
+import LogoUrl from '@assets/images/logo.png';
 
 import VisaUrl from '@assets/images/visa.png';
 import MasterCardUrl from '@assets/images/mastercard.png';
