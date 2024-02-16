@@ -25,8 +25,8 @@ const Stats : Component = () => {
           </div>
           {/* Item Text */}
           <div>
-            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">100%</div>
-            <div class="text-gray">Liquidity Supply</div>
+            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">1000</div>
+            <div class="text-gray">Gold Rock</div>
           </div>
         </div>
         {/* Item */}
@@ -37,8 +37,8 @@ const Stats : Component = () => {
           </div>
           {/* Item Text */}
           <div>
-            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">0%</div>
-            <div class="text-gray">Team Supply</div>
+            <div class="text-2xl font-bold lg:text-[40px] lg:mb-2">100%</div>
+            <div class="text-gray">Liquidity</div>
           </div>
         </div>
       </div>
