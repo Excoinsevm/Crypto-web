@@ -22,12 +22,9 @@ const FeaturesSection2 : Component = () => {
         >
           <h3 class="h3 mb-6">Detailed Statistics</h3>
           <p class="text-gray mb-8">
-          View all GROCK related Tx's in realtime, at
-          any location any time using CoinTools.
+          Explore your GROCK holdings effortlessly through the GROCK Dashboard on the web. Stay informed and keep track of your GROCK assets with ease.
           </p>
-           <a href="https://www.dextools.io/app/en/bitrock/pair-explorer/0x26404f495ad88b63bb9eca24d4dadb3b8018dba3?t=1708041095895" target="_blank" rel="noopener noreferrer">
-            <button class="btn px-8">Charts</button>
-          </a>
+            <button class="btn px-8">Soon</button>
         </div>
       </div>
     </div>
