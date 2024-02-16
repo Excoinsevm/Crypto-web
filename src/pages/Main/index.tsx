@@ -27,6 +27,7 @@ const Main : Component = () => {
     </div>
     <Stats />
     <Why />
+    <Calculate />
     <Trade />
     <Features />
     <Newsletter />
