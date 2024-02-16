@@ -35,8 +35,8 @@ const Footer : Component = () => {
                 </a>
               </li>
               <li>
-                <a class="hover:text-blue transition" href="#">
-                Products
+                <a class="hover:text-blue transition" href="https://twitter.com/GoldRock_Grock">
+                Twitter
                 </a>
               </li>
               <li>
