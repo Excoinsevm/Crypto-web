@@ -18,7 +18,7 @@ const Footer : Component = () => {
     <div class="container mx-auto lg:mb-24">
       <div class="flex flex-col gap-12 lg:flex-row">
         {/* Logo */}
-        <div class="flex-1 mx-auto lg:mx-0 mb-6 max-w-[285px]">
+        <div class="flex-1 mx-auto lg:mx-0 mb-6 max-w-[300px]">
           <a href="#">
             <img src={LogoUrl} alt="Logo" />
           </a>
