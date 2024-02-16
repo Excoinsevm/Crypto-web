@@ -1,11 +1,8 @@
 import {Component} from 'solid-js';
 
-import {
-  IoLogoYoutube,
-  IoLogoInstagram,
-  IoLogoTwitter,
-  IoLogoLinkedin,
-} from 'solid-icons/io';
+import { IoLogoTwitter } from 'solid-icons/io'
+import { BsTelegram } from 'solid-icons/bs'
+import { IoStatsChartSharp } from 'solid-icons/io'
 
 import LogoUrl from '@assets/images/logo.png';
 
@@ -105,10 +102,10 @@ const Footer : Component = () => {
         {/* Social icons */}
         <div class="flex text-2xl gap-x-8">
           <a class="hover:text-blue transition" href="#">
-            <IoLogoYoutube />
+            <IoStatsChartSharp />
           </a>
           <a class="hover:text-blue transition" href="#">
-            <IoLogoInstagram />
+            <BsTelegram />
           </a>
           <a class="hover:text-blue transition" href="#">
             <IoLogoTwitter />
