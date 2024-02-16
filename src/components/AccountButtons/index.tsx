@@ -7,7 +7,7 @@ const AccountButtons : Component = () => {
     {/* Separator */}
     <span class="mx-6 text-white/20 font-thin">|</span>
     {/* Register Button */}
-    <button class="btn h-[52px] text-base px-8">Buy</button Now>
+    <button class="btn h-[52px] text-base px-8">Buy Now</button>
   </div>;
 };
 
