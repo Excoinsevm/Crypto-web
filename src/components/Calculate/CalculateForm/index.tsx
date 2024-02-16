@@ -14,11 +14,7 @@ const CalculateForm : Component = () => {
         placeholder="Enter your hash rate"
       />
       <select class="select">
-        <option value="">TH/s</option>
-        <option value="">H/s</option>
-        <option value="">KH/s</option>
-        <option value="">MH/s</option>
-        <option value="">GH/s</option>
+        <option value="">.</option>
       </select>
       {/* Button */}
       <button class="btn text-white px-8 flex self-start">
