@@ -4,9 +4,6 @@ import CalculateForm from './CalculateForm';
 
 const Calculate : Component = () => {
   return <section class="section">
-    <div class="container mx-auto">
-      {/* Text */}
-      <div class="text-center">
         <h2
           class="section-title"
           data-aos="fade-up"
@@ -21,9 +18,6 @@ const Calculate : Component = () => {
         >
         Let"s check your hash rate to see how much you will earn today.
         </p>
-      <div class="text-gray-500 tracking-[1%]">
-          Revenue will change based on mining difficulty and Ethereum price.
-      </div>
   </section>;
 };
 
