@@ -47,7 +47,7 @@ export const currency = [
   {
     image: LitecoinImg,
     name: 'Gold Stake',
-    abbr: 'NROCK',
+    abbr: 'GST',
     description:
       'Soon.',
   },
