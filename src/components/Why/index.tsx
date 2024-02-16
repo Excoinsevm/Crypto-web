@@ -16,9 +16,8 @@ const Why : Component = () => {
         <div class="order-1 lg:order-2 max-w-[480px]"
           data-aos="fade-left"
           data-aos-offset='400' >
-          <h2 class="section-title ">Why you should chose CRAPPO</h2>
-          <p class="section-subtitle">Experience the next generation cryptocurrency platform. No financial borders, extra fees and fake reviews.</p>
-          <button class="btn px-6">Learn more</button>
+          <h2 class="section-title ">Why GROCK?</h2>
+          <p class="section-subtitle">GROCK, a BEP-20 token on the Bitrock Chain, is your gateway to a secure and consistent investment journey. With a fixed maximum supply of 1000 tokens, GROCK stands resilient in the crypto market. Its non-mintable and non-burnable characteristics ensure a steadfast supply, providing investors with stability in an ever-changing landscape. Explore the reasons behind GROCK and embrace a reliable foundation for your crypto portfolio.</p>
         </div>
       </div>
     </div>
