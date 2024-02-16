@@ -30,7 +30,7 @@ const Footer : Component = () => {
             <div class="text-xl font-medium mb-6">Quick Links</div>
             <ul class="space-y-4 text-gray">
               <li>
-                <a class="hover:text-blue transition" href="#">
+                <a class="hover:text-blue transition" href="https://goldrock-grock.vercel.app">
                 Home
                 </a>
               </li>
@@ -40,17 +40,17 @@ const Footer : Component = () => {
                 </a>
               </li>
               <li>
-                <a class="hover:text-blue transition" href="#">
-                About
+                <a class="hover:text-blue transition" href="https://t.me/GoldRock_grock">
+                Telegram
                 </a>
               </li>
               <li>
-                <a class="hover:text-blue transition" href="#">
-                Features
+                <a class="hover:text-blue transition" href="https://rock-swap.io/#/swap?outputCurrency=0x2ae505d947254bd7fde48799cc388215348e1e23">
+                Buy GROCK
                 </a>
               </li>
               <li>
-                <a class="hover:text-blue transition" href="#">
+                <a class="hover:text-blue transition" href="https://t.me/GoldRockyRock">
                 Contact
                 </a>
               </li>
