@@ -12,8 +12,7 @@ const Features : Component = () => {
           data-aos="fade-up"
           data-aos-offset="400"
         >
-        Market sentiments, portfolio, and run the infrastructure of your
-        choice
+        Market sentiments, portfolio, and much more
         </h2>
       </div>
       <FeaturesSection1 />
