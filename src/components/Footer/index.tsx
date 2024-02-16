@@ -92,7 +92,6 @@ const Footer : Component = () => {
             <div class="flex justify-center items-center gap-6">
               <img src={VisaUrl} alt="Logo" />
               <img src={MasterCardUrl} alt="Logo" />
-              <img src={BitcoinUrl} alt="Logo" />
             </div>
           </div>
         </div>
