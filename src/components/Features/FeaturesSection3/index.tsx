@@ -15,9 +15,11 @@ const FeaturesSection3 : Component = () => {
         Detailed Statistics
         </h3>
         <p class="text-gray mb-8 max-w-[408px]">
-        View all GROCK related Tx's in realtime, at any location any time using CoinTools.
+        Follow our page Twitter to find out more and stay updated with all our posts and news.
         </p>
-        <button class="btn px-8">Charts</button>
+         <a href="https://twitter.com/GoldRock_Grock" target="_blank" rel="noopener noreferrer">
+            <button class="btn px-8">Follow Us</button>
+          </a>
       </div>
       {/* Image */}
       <div
