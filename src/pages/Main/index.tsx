@@ -15,7 +15,7 @@ import Newsletter from '@components/Newsletter';
 import Footer from '@components/Footer';
 
 const Main : Component = () => {
-  AOS.init({duration: 0, delay: 0});
+  AOS.init({duration: 1, delay: 1});
 
   const [navMobile, setNavMobile] = createSignal(false);
 
