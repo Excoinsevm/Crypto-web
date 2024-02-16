@@ -13,12 +13,8 @@ const FeatureSection1 : Component = () => {
       >
         <h3 class="h3 mb-6">Invest Smart</h3>
         <p class="text-gray mb-8">
-        Get full statistic information about the behavior of buyers and
-        sellers and stay Up to date on our Telegram Group.
+        GROCK is a BEP-20 token constructed on the Bitrock Chain, featuring a maximum supply of 1000 tokens. It is non-mintable and non-burnable, ensuring a constant supply for stability.
         </p>
-         <a href="https://t.me/" target="_blank" rel="noopener noreferrer">
-            <button class="btn px-8">Join</button>
-          </a>
       </div>
       {/* Image */}
       <div
