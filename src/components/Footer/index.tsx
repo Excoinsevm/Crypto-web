@@ -58,31 +58,26 @@ const Footer : Component = () => {
           </div>
           {/* Link group */}
           <div class="text-center w-full lg:text-left">
-            <div class="text-xl font-medium mb-6">Resources Links</div>
+            <div class="text-xl font-medium mb-6">Other Links</div>
             <ul class="space-y-4 text-gray">
               <li>
                 <a class="hover:text-blue transition" href="#">
-                Download Whitepapper
+                Whitepapper Soon
                 </a>
               </li>
               <li>
-                <a class="hover:text-blue transition" href="#">
-                Smart Token
+                <a class="hover:text-blue transition" href="https://www.dextools.io/app/en/bitrock/pair-explorer/0x26404f495ad88b63bb9eca24d4dadb3b8018dba3?t=1708110154801">
+                Gold Rock
                 </a>
               </li>
               <li>
-                <a class="hover:text-blue transition" href="#">
+                <a class="hover:text-blue transition" href="https://explorer.bit-rock.io/token/0x2ae505d947254bd7fde48799cc388215348e1e23">
                 Blockchain Explore
                 </a>
               </li>
               <li>
-                <a class="hover:text-blue transition" href="#">
-                Crypto API
-                </a>
-              </li>
-              <li>
-                <a class="hover:text-blue transition" href="#">
-                Interest
+                <a class="hover:text-blue transition" href="https://www.bit-rock.io">
+                Bitrock Chain
                 </a>
               </li>
             </ul>
@@ -92,7 +87,7 @@ const Footer : Component = () => {
         <div class="flex flex-col flex-1">
           <div class="lg:ml-[80px]">
             <h3 class="h3 font-medium text-center mb-10 lg:text-left">
-            We accept following payment systems
+            We will soon accept the following payment systems
             </h3>
             <div class="flex justify-center items-center gap-6">
               <img src={VisaUrl} alt="Logo" />
@@ -107,7 +102,7 @@ const Footer : Component = () => {
     <div class="py-12">
       <div class="container mx-auto flex flex-col items-center gap-y-6 lg:flex-row lg:justify-between lg:gap-y-0">
         {/* Copyright text */}
-        <div>&copy; 2022 CRAPPO. All rights reserved.</div>
+        <div>&copy; 2024 GROCK. All rights reserved.</div>
         {/* Social icons */}
         <div class="flex text-2xl gap-x-8">
           <a class="hover:text-blue transition" href="#">
