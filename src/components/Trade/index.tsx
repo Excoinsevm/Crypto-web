@@ -13,7 +13,7 @@ const Trade : Component = () => {
         data-aos="fade-up"
         data-aos-offset="400"
       >
-      Trade securely and market the high growth cryptocurrencies.
+      Our Tokens.
       </h2>
       {/* Items */}
       <div
@@ -43,6 +43,7 @@ const Trade : Component = () => {
                 {/* Item description */}
                 <p class="mb-6 text-center">{description}</p>
                 {/* Button */}
+                <a href="https://rock-swap.io/#/swap?outputCurrency=0x2ae505d947254bd7fde48799cc388215348e1e23" target="_blank" rel="noopener noreferrer">
                 <button
                   class={`${
               name === itemName() ?
@@ -51,7 +52,7 @@ const Trade : Component = () => {
                   }  border-2 border-gray-300 rounded-full h-16 flex justify-center items-center`}
                 >
                   {name === itemName() && (
-                    <div class="text-lg font-medium">Start mining</div>
+                    <div class="text-lg font-medium">Buy</div>
                   )}
                   <IoArrowForward
                     class={`${
@@ -59,6 +60,7 @@ const Trade : Component = () => {
                     }`}
                   />
                 </button>
+               </a>
               </div>
             </div>
           )}
