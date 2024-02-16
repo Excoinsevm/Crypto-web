@@ -13,7 +13,7 @@ const FeatureSection1 : Component = () => {
       >
         <h3 class="h3 mb-6">Invest Smart</h3>
         <p class="text-gray mb-8">
-        GROCK is a BEP-20 token constructed on the Bitrock Chain, featuring a maximum supply of 1000 tokens. It is non-mintable and non-burnable, ensuring a constant supply for stability.
+        GROCK is a BROCK-20 token constructed on the Bitrock Chain, featuring a maximum supply of 1000 tokens. It is non-mintable and non-burnable, ensuring a constant supply for stability.
         </p>
       </div>
       {/* Image */}
