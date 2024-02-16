@@ -101,13 +101,13 @@ const Footer : Component = () => {
         <div>&copy; 2024 GROCK. All rights reserved.</div>
         {/* Social icons */}
         <div class="flex text-2xl gap-x-8">
-          <a class="hover:text-blue transition" href="#">
+          <a class="hover:text-blue transition" href="https://www.dextools.io/app/en/bitrock/pair-explorer/0x26404f495ad88b63bb9eca24d4dadb3b8018dba3?t=1708114341704">
             <IoStatsChartSharp />
           </a>
-          <a class="hover:text-blue transition" href="#">
+          <a class="hover:text-blue transition" href="https://t.me/GoldRock_grock">
             <BsTelegram />
           </a>
-          <a class="hover:text-blue transition" href="#">
+          <a class="hover:text-blue transition" href="https://twitter.com/GoldRock_Grock">
             <IoLogoTwitter />
           </a>
         </div>
