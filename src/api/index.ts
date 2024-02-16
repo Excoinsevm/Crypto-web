@@ -32,8 +32,8 @@ export const navData = [
 export const currency = [
   {
     image: BitconImg,
-    name: 'Bitcoin',
-    abbr: 'BTC',
+    name: 'Gold Rock',
+    abbr: 'GROCK',
     description:
       'Digital currency in which a record of transactions is maintained.',
   },
