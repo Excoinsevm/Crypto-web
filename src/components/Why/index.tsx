@@ -17,7 +17,7 @@ const Why : Component = () => {
           data-aos="fade-left"
           data-aos-offset='400' >
           <h2 class="section-title ">Why GROCK?</h2>
-          <p class="section-subtitle">GROCK, a BEP-20 token on the Bitrock Chain, is your gateway to a secure and consistent investment journey. With a fixed maximum supply of 1000 tokens, GROCK stands resilient in the crypto market. Its non-mintable and non-burnable characteristics ensure a steadfast supply, providing investors with stability in an ever-changing landscape. Explore the reasons behind GROCK and embrace a reliable foundation for your crypto portfolio.</p>
+          <p class="section-subtitle">GROCK, a BROCK-20 token on the Bitrock Chain, is your gateway to a secure and consistent investment journey. With a fixed maximum supply of 1000 tokens, GROCK stands resilient in the crypto market. Its non-mintable and non-burnable characteristics ensure a steadfast supply, providing investors with stability in an ever-changing landscape. Explore the reasons behind GROCK and embrace a reliable foundation for your crypto portfolio.</p>
         </div>
       </div>
     </div>
