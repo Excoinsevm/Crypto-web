@@ -113,9 +113,6 @@ const Footer : Component = () => {
           <a class="hover:text-blue transition" href="#">
             <IoLogoTwitter />
           </a>
-          <a class="hover:text-blue transition" href="#">
-            <IoLogoLinkedin />
-          </a>
         </div>
       </div>
     </div>
