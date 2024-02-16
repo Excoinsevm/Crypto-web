@@ -9,20 +9,20 @@ import LitecoinImg from '../assets/images/litecoin.png';
 
 export const navData = [
   {
-    name: 'Products',
+    name: 'Stake GROCK Soon',
     href: '#',
   },
   {
-    name: 'Features',
+    name: 'SROCK Soon',
     href: '#',
   },
   {
-    name: 'About',
-    href: '#',
+    name: 'Charts',
+    href: 'https://www.dextools.io/app/en/bitrock/pair-explorer/0x26404f495ad88b63bb9eca24d4dadb3b8018dba3?t=1708103631047',
   },
   {
     name: 'Contact',
-    href: '#',
+    href: 'https://t.me/GoldRockyRock',
   },
 ];
 
