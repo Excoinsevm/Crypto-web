@@ -35,21 +35,21 @@ export const currency = [
     name: 'Gold Rock',
     abbr: 'GROCK',
     description:
-      'Digital currency in which a record of transactions is maintained.',
+      'Digital currency on the Bitrock Network.',
   },
   {
     image: EthereumImg,
-    name: 'Ethereum',
-    abbr: 'ETH',
+    name: 'Silver Rock',
+    abbr: 'SROCK',
     description:
-      'Blockchain technology to create and run decentralized digital applications.',
+      'Soon.',
   },
   {
     image: LitecoinImg,
-    name: 'Litecoin',
-    abbr: 'LTC',
+    name: 'Gold Staking NFT's',
+    abbr: 'NROCK',
     description:
-      'Cryptocurrency that enables instant payments to anyone in the world.',
+      'Soon.',
   },
 ];
 
