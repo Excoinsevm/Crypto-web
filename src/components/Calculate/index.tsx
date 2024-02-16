@@ -21,10 +21,9 @@ const Calculate : Component = () => {
         >
         Let"s check your hash rate to see how much you will earn today.
         </p>
+      <div class="text-gray-500 tracking-[1%]">
+          Revenue will change based on mining difficulty and Ethereum price.
       </div>
-      {/* Form */}
-      <CalculateForm />
-    </div>
   </section>;
 };
 
