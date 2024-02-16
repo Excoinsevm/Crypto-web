@@ -20,7 +20,7 @@ const FeaturesSection2 : Component = () => {
           data-aos="fade-left"
           data-aos-offset="400"
         >
-          <h3 class="h3 mb-6">Detailed Statistics</h3>
+          <h3 class="h3 mb-6">GROCK Dashboard</h3>
           <p class="text-gray mb-8">
           Explore your GROCK holdings effortlessly through the GROCK Dashboard on the web. Stay informed and keep track of your GROCK assets with ease.
           </p>
